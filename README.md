@@ -85,8 +85,11 @@ Port 443/tcp  →  HTTPS        OpenSSL 1.1.1
 
 ## 📁 Project Structure
 ---network-scanner/
+
 ├── scanner.py          # Main scanner script — run this
+
 ├── requirements.txt    # Python packages needed
+
 └── README.md           # This documentation file
 
 ## ⚠️ Disclaimer
