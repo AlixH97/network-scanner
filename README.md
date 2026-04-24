@@ -37,7 +37,7 @@ python3 scanner.py 192.168.1.0/24
 # Scan with custom ports
 python3 scanner.py 192.168.1.0/24 80,443,22,8080
 
-# Run default demo (scans localhost)
+# Run default demo
 python3 scanner.py
 ```
 
@@ -48,7 +48,7 @@ This tool is intended for **educational purposes** and **authorized network scan
 **Ali Hussnain**
 MSc IT Security Management — Arden University Berlin
 CCNA Certified | Network & Security Professional
-📧 alihaider060298@gmail.com
+📧 alihussnain8808@gmail.com
 📍 Berlin, Germany
 
 ## 📜 License
